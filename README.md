@@ -25,6 +25,8 @@ By using this application, you acknowledge that **YOU** are solely responsible f
 *   💻 **Terminal UI:** Modern, cyberpunk-themed dark interface with a dynamic console output showing live success/error execution streams.
 *   ⚡ **Modern Stack:** Built entirely using **Kotlin**, **Jetpack Compose** for the UI, and **Coroutines / Flow** for reactive state management.
 
+*   "The app absolutely does not store your API key or send it to a hidden server. Besides, I don't have the money for that anyway. :))"
+
 ---
 
 ## 🚀 How It Works (`BakingViewModel.kt` Logic)
